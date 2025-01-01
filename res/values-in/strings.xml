@@ -731,7 +731,7 @@
     <string name="Registrants">"Pendaftar"</string>
     <string name="Round_Of">"Babak"</string>
     <string name="Next_Tournament">"Berikutnya Turnamen"</string>
-    <string name="Plasma_Won">"Plasma Won"</string>
+    <string name="Plasma_Won">"Plasma yang dimenangkan"</string>
     <string name="Semi_Finals">"Semi-Final"</string>
     <string name="Quarter_Finals">"Perempat Final"</string>
     <string name="Competing">"Bersaing"</string>
@@ -822,8 +822,8 @@
     <string name="x3_Clan_XP_7_days">3x XP Klan 7 Hari</string>
     <string name="x3_Clan_XP_1_Day">3x XP Klan 1 Hari</string>
     <string name="x2_Clan_XP_1_Day">2x XP Klan 1 Hari</string>
-    <string name="Pets">Pet</string>
-    <string name="Pet">Pet</string>
+    <string name="Pets">Peliharaan</string>
+    <string name="Pet">Peliharaan</string>
     <string name="You_can_purchase_this_pet_for">Anda bisa membeli pet ini</string>
     <string name="gift_to_friend">Hadiah Ke Teman</string>
     <string name="gift_purchase_warning">Anda tidak akan menerima pembelian ini karena Anda telah memilih untuk hadiah pembelian ini kepada seseorang teman.</string>
@@ -891,8 +891,8 @@
     <string name="BANNED">DILARANG</string>
     <string name="CLAN_MEMBERS">ANGGOTA KLAN</string>
     <string name="CLAN_REQUESTS">PERSETUJUAN ANGGOTA</string>
-    <string name="Pet_1">Pet 1</string>
-    <string name="Pet_2">Pet 2</string>
+    <string name="Pet_1">Peliharaan 1</string>
+    <string name="Pet_2">Peliharaan 2</string>
     <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
     <string name="This_item_requires">Item ini memerlukan </string>
     <string name="not_enough_plasma">Plasma tidak cukup.</string>
@@ -947,7 +947,7 @@
     <string name="Dot_Deity">Dot Dewa</string>
     <string name="Mass_Mastery">Penguasaan Massa</string>
     <string name="Gain_100_000_000_mass">Raih 100.000.000 massa</string>
-    <string name="VET">VET</string>
+    <string name="VET">Veteran</string>
     <string name="Mute">Bisukan</string>
     <string name="Unmute">Batal Bisukan</string>
     <string name="Community">Komunitas</string>
@@ -1150,7 +1150,7 @@
     <string name="South_Africa">Afrika Selatan </string>
     <string name="SPLIT_">SPLIT:</string>
     <string name="WALLS">DINDING</string>
-    <string name="COMP_BANNED">KOMP DILARANG</string>
+    <string name="COMP_BANNED">KOMPETISI DILARANG</string>
     <string name="FIND_GAMES">CARI PERMAINAN</string>
     <string name="PLAY_SOLO">MAINKAN SOLO</string>
     <string name="SET_EMOTE">ATUR EMOTE</string>
